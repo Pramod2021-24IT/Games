@@ -1,5 +1,5 @@
 # List of Games
-## _____________________________ Game 1 : Tic-Tac-Toe ___________________________________
+## ________________________ Game 1 : Tic-Tac-Toe ________________________
 
 
 ![image](https://github.com/Pramod2021-24IT/Games/assets/95674009/b683a503-baac-465c-bb32-9601ce9d18f2)
